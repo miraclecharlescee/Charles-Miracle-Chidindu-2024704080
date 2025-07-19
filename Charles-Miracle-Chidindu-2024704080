@@ -17,7 +17,7 @@ elif 45 <= score <= 49:
 elif 40 <= score <= 44:
     print("Grade: E")
     print("YES")
-elif 20 <= score <= 39:
+elif 00 <= score <= 39:
     print("Grade: F")
     print("YES")
 else:
